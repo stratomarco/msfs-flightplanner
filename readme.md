@@ -2,7 +2,7 @@
 
 A full-featured preflight planning tool for Microsoft Flight Simulator 2024.
 
-Built by **Marco** ([@stratomarco](https://github.com/stratomarco))
+Built by ([@stratomarco](https://github.com/stratomarco))
 
 ---
 
