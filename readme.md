@@ -4,6 +4,8 @@ A full-featured preflight planning tool for Microsoft Flight Simulator 2024.
 
 Built by ([@stratomarco](https://github.com/stratomarco))
 
+<a href="https://www.buymeacoffee.com/stratomarco"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40"></a>
+
 ---
 
 ## Features
