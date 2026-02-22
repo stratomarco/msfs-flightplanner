@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Database (large, auto-downloaded)
+airports.db
+airports.csv
+
+# Logs and local state
+*.log
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Local credentials
+.env

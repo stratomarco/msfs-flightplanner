@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SBGW to SBCT</Title>
+        <FPType>VFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>SBGW</DepartureID>
+        <DepartureLLA>S22° 47.50',W45° 12.29',+1761.00</DepartureLLA>
+        <DestinationID>SBCT</DestinationID>
+        <DestinationLLA>S25° 31.71',W49° 10.55',+2988.00</DestinationLLA>
+        <Descr>SBGW — SBCT | Bonanza Professional (Black Square)</Descr>
+        <DeparturePosition/>
+        <DepartureName>Edu Chaves Field</DepartureName>
+        <DestinationName>Curitiba-Afonso Pena International Airport</DestinationName>
+        <AppVersion>11,1,282174,0</AppVersion>
+        <ATCWaypoint id="SBGW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S22° 47.50',W45° 12.29',+1761.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>SBGW</ICAOIdent>
+                <ICAORegion>SB</ICAORegion>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SBCT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S25° 31.71',W49° 10.55',+2988.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>SBCT</ICAOIdent>
+                <ICAORegion>SB</ICAORegion>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
