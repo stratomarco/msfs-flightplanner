@@ -23,7 +23,7 @@ Built by ([@stratomarco](https://github.com/stratomarco))
 
 ## Getting Started
 
-See **[howto.md](howto.md)** for full setup instructions, required environment variables, and optional service configuration.
+See **[Howto.md](https://github.com/stratomarco/msfs-flightplanner/blob/main/Howto.md)** for full setup instructions, required environment variables, and optional service configuration.
 
 ## License
 
