@@ -23,7 +23,7 @@ Built by ([@stratomarco](https://github.com/stratomarco))
 
 ## Getting Started
 
-See **[HOWTO.md](HOWTO.md)** for full setup instructions, required environment variables, and optional service configuration.
+See **[howto.md](howto.md)** for full setup instructions, required environment variables, and optional service configuration.
 
 ## License
 
